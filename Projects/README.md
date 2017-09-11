@@ -1,0 +1,2 @@
+# Projects
+Contains a folder for each week of independent study. In each folder, there is a readme containing a manifest of files, which will be .ino (Arduino) files, schematics, documentation on usage, etc. 
