@@ -1,0 +1,2 @@
+# Week 1
+Contains an Arduino sketch of a simple MIDI interfacing program. A note that this must be used with the Hairless MIDI Serial Bridge to function properly. The goal of this was to usefully implement the [Arduino MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library) in a live environment. 
