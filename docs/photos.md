@@ -12,5 +12,3 @@
 ![Controller](/Photos/20171210_162646.jpg){:class="img-responsive"}
 ![Other view](/Photos/20171212_161137.jpg){:class="img-responsive"}
 ![Solder joints](/Photos/20171212_154252.jpg){:class="img-responsive"}
-
-Made by Sam Stern
