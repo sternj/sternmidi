@@ -18,10 +18,10 @@ During this process, I designed a faceplate and housing for all of the electroni
 Over the course of the design, I refined the wiring to minimize the number of connections needed to the Arduino and improve the stability of the connections on the solderless breadboard. I ultimately migrated the remaining circuitry to a soldered breadboard.
 
 ## Outcome
-After finishing the construction of the device and solving some timing issues within the Arduino software, the device was fully functional and sending syntactically-correct MIDI signals over the Arduino Uno's built-in serial port. These had to be interpreted by the Hairless Serial-MIDI bridge due to firmware incompatibilities, but observation of the output of the serial bridge demonstrated complete functionality. The code can be found [here]("https://github.com/sternj/sternmidi/tree/master/Projects/sketch_oct16a"). Images can be found on the [Photos]("./photos.html") page. 
+After finishing the construction of the device and solving some timing issues within the Arduino software, the device was fully functional and sending syntactically-correct MIDI signals over the Arduino Uno's built-in serial port. These had to be interpreted by the Hairless Serial-MIDI bridge due to firmware incompatibilities, but observation of the output of the serial bridge demonstrated complete functionality. The code can be found [here]("https://github.com/sternj/sternmidi/tree/master/Projects/sketch_oct16a"). Images can be found on the [Photos]("/photos.html") page.
 
 ## Challenges
-The first issue I encountered was not only that I didn't know how to solder well, but that soldering takes a rather long time to do. The connections that I was building were small and required a variety of techniques to solder, none of which I actually knew.
+The first issue I encountered was not only that I didn't know how to solder well, but that soldering takes a rather long time to do. The sconnections that I was building were small and required a variety of techniques to solder, none of which I actually knew.
 
 Building hardware is also time-consuming to an extent that programming is not. With a program, I generally have a testable model within the 48 hours after finishing the design. For this device, my turnaround time was about a month from design to first testable implementation.
 
