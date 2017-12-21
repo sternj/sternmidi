@@ -18,8 +18,11 @@ For information on the static controller, see its [page]({{"/staticmidi.html" | 
 For information on the motorized controller, see its [page]({{"/motormidi.html" | absolute_url}})
 
 #### Challenges
-I initially thought that most of my issues with this project would be in implementing the software for serial communication from the Arduino. This turned out to be the simplest part of the entire process. The hardware proved to be incredibly time-consuming. I did not account for how long it would take to solder, how many issues were caused by my inexperience in choosing electronic parts, and how time-intensive the actual process of construction is. After I completed designs, the turnaround time to an even remotely testable product was at least two weeks, accounting for procedural hiccups. Learning to effectively solder took, on its own, a month. I go into further
+I initially thought that most of my issues with this project would be in implementing the software for serial communication from the Arduino. This turned out to be the simplest part of the entire process. The hardware proved to be incredibly time-consuming. I did not account for how long it would take to solder, how many issues were caused by my inexperience in choosing electronic parts, and how time-intensive the actual process of construction is. After I completed designs, the turnaround time to an even remotely testable product was at least two weeks, accounting for procedural hiccups. Learning to effectively solder took, on its own, a month. I go into further detail in the "challenges" subheading of each project page.
 
 ### Personal learning
+I very apparently gained moderately-advanced soldering and circuit design skills in the process of this project. However, I also learned critical lessons about time management. Firstly, hardware invariably takes much more time than I would estimate. It is physically more difficult and far more time-consuming to solder than to write code. Because of this, in hardware, precision and time-management carry greater weight than they do even in software. In a similar manner, I learned that I need to do more careful research on hardware dependencies, anticipate missing parts, and leave spare time for shipping. 
+
 Fix hyperlinks
+
 Make higher-level menu bar
