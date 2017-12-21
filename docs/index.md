@@ -25,7 +25,7 @@ I very apparently gained moderately-advanced soldering and circuit design skills
 
 I also need to be far more vigilant about documenting my progress through multiple media and planning more meticulously. I did not have pictures or schematics for the early phases of each of the projects, and it would have helped me in scaling up my proofs-of-concept to have what I already did more precisely laid-out. There were many times when I did not know which wires were going where, so I was unable to figure out what was going wrong.
 
-On a similar token, however, I became better at designing electronics hardware in a way that is more visually pleasing and more organized. Rather than using any spare wire, on the motorized controller I color-coded the functions of the wires and made sure that the internal wiring on the breadboard was compact and intuitive. Many of the issues that arose in building the first controller simply originated in the fact that I did not take these measures, and the lack of organization forced me to rewire several times, adding unnecessary hours to the process.
+On a similar token, however, I became better at designing electronics hardware in a way that is more visually pleasing and more organized. Rather than using any spare wire, on the motorized controller I color-coded the functions of the wires and made sure that the internal wiring on the breadboard was compact and intuitive. Many of the issues that arose in building the first controller simply originated in the fact that I did not take these measures, and the lack of organization forced me to rewire several times, adding unnecessary hours to the process of building it. 
 
 Fix hyperlinks
 
