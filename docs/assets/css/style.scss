@@ -20,6 +20,8 @@ float:center;
  width:89px;
  float:left;
  border-right:1px solid #e0e0e0;
+ display: table;
+
  height:40px
 }
 .page-header li:first-child a {
@@ -32,9 +34,10 @@ float:center;
  line-height:1;
  font-size:11px;
  color:#676767;
- display:block;
+ display:table-cell;
+ vertical-align: middle;
  text-align:center;
- vertical-align: middle
+
 }
 .page-header ul a:hover,.page-header ul a:focus {
  color:#675C5C;
