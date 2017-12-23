@@ -17,9 +17,14 @@ width:270px;
 float:center;
 }
 .page-header li {
+color:rgba(255,255,255,0.7);
+ background-color:rgba(255,255,255,0.08);
+ border-color:rgba(255,255,255,0.2);
+ border-style:solid;
+ border-width:1px;
  width:89px;
  float:left;
- border-right:1px solid #e0e0e0;
+ border-right:1px solid rgba(255,255,255,0.2);
  display: table;
  height:40px
 }
@@ -37,7 +42,10 @@ float:center;
 
 }
 .page-header ul a:hover,.page-header ul a:focus {
- text-decoration: none;
+ color:rgba(255,255,255,0.8);
+ text-decoration:none;
+ background-color:rgba(255,255,255,0.2);
+ border-color:rgba(255,255,255,0.3)
 }
 .page-header ul a:active {
 }
